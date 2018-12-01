@@ -16,6 +16,8 @@ public class MainActivity extends BaseActivity {
     protected void initData() {
         super.initData();
         // tag1
+        //tag2 新增加的数据，次数据是在版本2的基础上改的。
+        
     }
 
 
